@@ -1,4 +1,4 @@
-module artajasa
+module cases-title
 
 go 1.21.1
 
